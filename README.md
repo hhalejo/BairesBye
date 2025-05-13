@@ -73,5 +73,5 @@ Distribuido bajo la **Licencia MIT**. Consulta el archivo [LICENSE](LICENSE) par
 ## Contacto
 
 - **Autor**: hhalejo(https://github.com/hhalejo)
-- **Repositorio**: [https://github.com/tu_usuario/BairesBye](https://github.com/hhalejo/BairesBye)
+- **Repositorio**: [https://github.com/hhalejo/BairesBye](https://github.com/hhalejo/BairesBye)
 

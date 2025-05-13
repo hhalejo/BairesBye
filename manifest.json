@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "Eliminar Artículos con BairesDev",
+    "version": "1.0",
+    "description": "Elimina todos los artículos que contengan enlaces a 'bairesdev'.",
+    "permissions": ["scripting", "activeTab", "tabs"],
+    "host_permissions": ["https://*.computrabajo.com/*"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+      "default_icon": {
+        "48": "icons/icon48.png"
+      }
+    }
+  }
+  

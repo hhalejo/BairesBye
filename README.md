@@ -72,6 +72,6 @@ Distribuido bajo la **Licencia MIT**. Consulta el archivo [LICENSE](LICENSE) par
 
 ## Contacto
 
-- **Autor**: [Tu nombre o alias](https://github.com/tu_usuario)
-- **Repositorio**: [https://github.com/tu_usuario/BairesBye](https://github.com/tu_usuario/BairesBye)
+- **Autor**: hhalejo(https://github.com/hhalejo)
+- **Repositorio**: [https://github.com/tu_usuario/BairesBye](https://github.com/hhalejo/BairesBye)
 
